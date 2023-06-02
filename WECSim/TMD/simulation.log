@@ -1,0 +1,88 @@
+
+WEC-Sim Input From Standard wecSimInputFile.m Of Case Directory... 
+WEC-Sim: An open-source code for simulating wave energy converters
+Version: 5.0.1
+
+Initializing the Simulation Class...
+	Case Dir: C:\Users\Dunca\Documents\College\Grad School\Spring2\Research\ThreeMassModelCoupledHydro\WECSim\FullScale\TMDThreeMasses 
+[Warning: Center of gravity and center of buoyancy are overwritten by h5 data for hydro bodies.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bodyClass/checkInputs', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\objects\bodyClass.m', 186)" style="font-weight:bold">bodyClass/checkInputs</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\objects\bodyClass.m',186,0)">line 186</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('initializeWecSim', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\functions\initializeWecSim.m', 140)" style="font-weight:bold">initializeWecSim</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\functions\initializeWecSim.m',140,0)">line 140</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'C:\Program Files\MATLAB\R2021b\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2021b\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wecSim', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m', 43)" style="font-weight:bold">wecSim</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m',43,0)">line 43</a>)] 
+[Warning: Non-hydro or drag body(2) center of buoyancy (centerBuoyancy) set equal to center of gravity (centerGravity), [-14.435 25 -0.61]] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bodyClass/checkInputs', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\objects\bodyClass.m', 205)" style="font-weight:bold">bodyClass/checkInputs</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\objects\bodyClass.m',205,0)">line 205</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('initializeWecSim', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\functions\initializeWecSim.m', 140)" style="font-weight:bold">initializeWecSim</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\functions\initializeWecSim.m',140,0)">line 140</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'C:\Program Files\MATLAB\R2021b\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2021b\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wecSim', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m', 43)" style="font-weight:bold">wecSim</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m',43,0)">line 43</a>)] 
+[Warning: Non-hydro or drag body(3) center of buoyancy (centerBuoyancy) set equal to center of gravity (centerGravity), [28.87 0 -0.61]] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bodyClass/checkInputs', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\objects\bodyClass.m', 205)" style="font-weight:bold">bodyClass/checkInputs</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\objects\bodyClass.m',205,0)">line 205</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('initializeWecSim', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\functions\initializeWecSim.m', 140)" style="font-weight:bold">initializeWecSim</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\functions\initializeWecSim.m',140,0)">line 140</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'C:\Program Files\MATLAB\R2021b\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2021b\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wecSim', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m', 43)" style="font-weight:bold">wecSim</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m',43,0)">line 43</a>)] 
+[Warning: Non-hydro or drag body(4) center of buoyancy (centerBuoyancy) set equal to center of gravity (centerGravity), [-14.435 -25 -0.61]] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bodyClass/checkInputs', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\objects\bodyClass.m', 205)" style="font-weight:bold">bodyClass/checkInputs</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\objects\bodyClass.m',205,0)">line 205</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('initializeWecSim', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\functions\initializeWecSim.m', 140)" style="font-weight:bold">initializeWecSim</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\functions\initializeWecSim.m',140,0)">line 140</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'C:\Program Files\MATLAB\R2021b\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2021b\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wecSim', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m', 43)" style="font-weight:bold">wecSim</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m',43,0)">line 43</a>)] 
+Elapsed time is 1.055158 seconds.
+
+WEC-Sim Pre-processing ...   
+[Warning: Because water depth is specified in the wecSimInputFile, the water depth from the BEM data is ignored] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('waveClass/setWaterDepth', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\objects\waveClass.m', 548)" style="font-weight:bold">waveClass/setWaterDepth</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\objects\waveClass.m',548,0)">line 548</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('waveClass/setup', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\objects\waveClass.m', 230)" style="font-weight:bold">waveClass/setup</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\objects\waveClass.m',230,0)">line 230</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('initializeWecSim', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\functions\initializeWecSim.m', 221)" style="font-weight:bold">initializeWecSim</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\functions\initializeWecSim.m',221,0)">line 221</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'C:\Program Files\MATLAB\R2021b\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2021b\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wecSim', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m', 43)" style="font-weight:bold">wecSim</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m',43,0)">line 43</a>)] 
+Elapsed time is 0.116154 seconds.
+
+WEC-Sim Simulation Settings:
+	Start Time                     (sec) = 0
+	End Time                       (sec) = 150
+	Time Step Size                 (sec) = 0.05
+	Ramp Function Time             (sec) = 60
+	 Number of Time Steps     = 3000 
+
+Wave Environment: 
+	Wave Type                            = Regular Waves (Constant Hydrodynamic Coefficients)
+	Wave Height, height (m)                   = 3
+	Wave Period, period (sec)                 = 6
+
+List of Body: Number of Bodies = 1 
+
+	***** Body Number 1, Name: body1 *****
+	Body CG                          (m) = [0,-0,-13.46]
+	Body Mass                       (kg) = 1.30813E+07 
+	Body Diagonal MOI              (kgm2)= [0,6.827E+09,0]
+
+List of PTO(s): Number of PTOs = 3 
+
+	***** PTO Name: PTO1 *****
+	PTO Stiffness           (N/m;Nm/rad) = 280000
+	PTO Damping           (Ns/m;Nsm/rad) = 100
+
+	***** PTO Name: PTO2 *****
+	PTO Stiffness           (N/m;Nm/rad) = 280000
+	PTO Damping           (Ns/m;Nsm/rad) = 100
+
+	***** PTO Name: PTO2 *****
+	PTO Stiffness           (N/m;Nm/rad) = 280000
+	PTO Damping           (Ns/m;Nsm/rad) = 100
+
+List of Constraint(s): Number of Constraints = 1 
+
+	***** Constraint Name: Constraint1 *****
+
+
+Simulating the WEC device defined in the SimMechanics model C:\Users\Dunca\Documents\College\Grad School\Spring2\Research\ThreeMassModelCoupledHydro\WECSim\FullScale\TMDThreeMasses\OC4_ThreeMasses_PTOActuated.slx...   
+Elapsed time is 0.912786 seconds.
+[Warning: '<a href="matlab:slprivate('open_and_hilite_port_hyperlink', 'hilite', ['OC4_ThreeMasses_PTOActuated/Translational PTO Actuation Force'], 'Outport', 1);">Output Port 1</a>' of '<a href="matlab:open_and_hilite_hyperlink ('OC4_ThreeMasses_PTOActuated/Translational PTO Actuation Force','error')">OC4_ThreeMasses_PTOActuated/Translational PTO Actuation Force</a>' is not connected.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wecSim', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m', 45)" style="font-weight:bold">wecSim</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m',45,0)">line 45</a>)] 
+[Warning: '<a href="matlab:slprivate('open_and_hilite_port_hyperlink', 'hilite', ['OC4_ThreeMasses_PTOActuated/Translational PTO Actuation Force1'], 'Outport', 1);">Output Port 1</a>' of '<a href="matlab:open_and_hilite_hyperlink ('OC4_ThreeMasses_PTOActuated/Translational PTO Actuation Force1','error')">OC4_ThreeMasses_PTOActuated/Translational PTO Actuation Force1</a>' is not connected.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wecSim', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m', 45)" style="font-weight:bold">wecSim</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m',45,0)">line 45</a>)] 
+[Warning: '<a href="matlab:slprivate('open_and_hilite_port_hyperlink', 'hilite', ['OC4_ThreeMasses_PTOActuated/Translational PTO Actuation Force2'], 'Outport', 1);">Output Port 1</a>' of '<a href="matlab:open_and_hilite_hyperlink ('OC4_ThreeMasses_PTOActuated/Translational PTO Actuation Force2','error')">OC4_ThreeMasses_PTOActuated/Translational PTO Actuation Force2</a>' is not connected.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wecSim', 'C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m', 45)" style="font-weight:bold">wecSim</a> (<a href="matlab: opentoline('C:\Users\Dunca\Documents\GitHub\WEC-Sim\source\wecSim.m',45,0)">line 45</a>)] 
+Elapsed time is 9.782840 seconds.
+
+Post-processing and saving...   
+Elapsed time is 0.057596 seconds.

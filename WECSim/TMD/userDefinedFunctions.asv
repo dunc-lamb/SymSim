@@ -1,0 +1,27 @@
+%Example of user input MATLAB file for post processing
+
+close all;
+
+%Plot heave response for body 1
+time = output.bodies.time;
+b1_heave_TMD = output.bodies(1).position(:,3);
+b1_pitch_TMD = output.bodies(1).position(:,5);
+
+load('../NoTMD/output/OC4_noTMD_matlabWorkspace.mat')
+b1_heave_noPTO = output.bodies(1).position(:,3);
+b1_pitch_noPTO = output.bodies(1).position(:,5);
+
+figure(1)
+plot(time,b1_heave_noPTO-output.bodies(1).centerGravity(3))
+hold on
+plot(time,b1_heave_TMD-output.bodies(1).centerGravity(3))
+xlabel('Time (s)')
+ylabel('Heave (m)')
+legend('Baseline','TMD')
+
+figure(2)
+plot(time,b1_pitch_TMD,'k','LineWidth',2)
+hold on
+yline(0,'b--','LineWidth',2)
+xlabel('Time (s)')
+ylabel('Pitch (rad)')
